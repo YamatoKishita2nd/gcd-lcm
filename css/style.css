@@ -1,0 +1,14 @@
+.container {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.calculate {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
